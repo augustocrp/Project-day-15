@@ -36,5 +36,4 @@ Transport --> Truck
 Transport --> Ship
 Logistics --- Transport
 
-
 @enduml
